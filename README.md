@@ -7,6 +7,7 @@ Software engineer building ML systems and full-stack applications — deep learn
 MSCS, UT Arlington (May 2026) · 4+ years across enterprise engineering, ML research, and full-stack development
 Open to new-grad / entry-level roles in software & ML engineering
 
+<a href="https://prathibha-portfolio-nj72.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://linkedin.com/in/prathibha-devkar-3096"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
 <a href="mailto:prathibhadevkar@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
 
