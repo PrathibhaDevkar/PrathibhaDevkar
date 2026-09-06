@@ -13,7 +13,7 @@ Open to new-grad / entry-level roles in software & ML engineering
 <br><br>
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=PrathibhaDevkar&theme=dark&hide_border=true">
+<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=PrathibhaDevkar&theme=dark&hide_border=true&v=2">
 <img src="https://streak-stats.demolab.com/?user=PrathibhaDevkar&theme=default&hide_border=true" alt="GitHub Streak" />
 </picture>
 
