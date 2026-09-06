@@ -10,13 +10,6 @@ Open to new-grad / entry-level roles in software & ML engineering
 <a href="https://linkedin.com/in/prathibha-devkar-3096"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
 <a href="mailto:prathibhadevkar@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
 
-<br><br>
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=PrathibhaDevkar&theme=dark&hide_border=true&v=2">
-<img src="https://streak-stats.demolab.com/?user=PrathibhaDevkar&theme=default&hide_border=true" alt="GitHub Streak" />
-</picture>
-
 </div>
 
 <br>
