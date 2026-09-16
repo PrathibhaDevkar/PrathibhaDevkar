@@ -18,7 +18,7 @@ Open to new-grad / entry-level roles in software & ML engineering
 ### Currently Building
 
 - **[rdt_transformer](https://github.com/PrathibhaDevkar/rdt_transformer)** — recurrent-depth transformer built from scratch in PyTorch; matches a parameter-matched GPT baseline on multi-hop reasoning at 30–47% fewer parameters, plus a tool-calling agent built on top
-- **[confidence-referee](https://github.com/PrathibhaDevkar/confidence-referee)** — generalized the confidence-calibration layer out of the meeting-intelligence project into a reusable library, then validated it actually generalizes (not just designed to look like it does) against a second, unrelated domain: RAG hallucination detection, 0.97 AUC
+- **[glassbox](https://github.com/PrathibhaDevkar/glassbox)** — real OpenTelemetry tracing for multi-step AI agents; pointed it at a second project's agent (RDT Transformer) and root-caused a tool-chaining failure that project had disclosed but never explained
 - **[hvac-standalone-dashboard](https://github.com/PrathibhaDevkar/hvac-standalone-dashboard)** — as Research Assistant @ SEAR Lab, collapsed a 6-service telemetry stack (MQTT/InfluxDB/Grafana) into one self-contained FastAPI app unifying live HVAC, water-heater, and solar data
 
 ### Experience
@@ -40,6 +40,7 @@ Shipped a React Native curbside-pickup feature for a national retail app (+30% s
 | project | what it does | stack |
 |---|---|---|
 | [Apex F1 Predictor](https://github.com/PrathibhaDevkar/F1-prediction) ([live](https://frontend-snowy-alpha-65.vercel.app)) | Forecasts F1 race outcomes from historical data — AUC 0.97 / 0.91 / 0.82 for win / podium / points-finish; auto-retrains after every race | FastAPI · scikit-learn · React · WebSocket |
+| [glassbox](https://github.com/PrathibhaDevkar/glassbox) | Real OpenTelemetry tracing SDK for multi-step AI agents (waterfall viewer, SQLite-backed spans); pointed at RDT Transformer's own agent to root-cause a previously-disclosed, unexplained tool-chaining failure down to its actual mechanism | Python · OpenTelemetry · React · FastAPI |
 | [confidence-referee](https://github.com/PrathibhaDevkar/confidence-referee) | Reusable confidence-calibration library generalized from the meeting-intelligence project; validated on an unrelated second domain (RAG hallucination detection) with zero changes to the core signals — 0.97 AUC | Python · scikit-learn |
 | [confidence-aware-meeting-intelligence](https://github.com/PrathibhaDevkar/confidence-aware-meeting-intelligence) | Meeting summarizer with per-field confidence scoring — 58% precision on high-confidence items vs. 16% on low-confidence, a 3.6× spread | Python · Ollama · DistilBERT · Streamlit |
 | [rdt_transformer](https://github.com/PrathibhaDevkar/rdt_transformer) | From-scratch recurrent-depth transformer + reasoning agent; caught and rewrote a misleading eval metric that overstated task completion | Python · PyTorch |
@@ -62,7 +63,7 @@ A 2-layer CNN (96% test accuracy) on a custom 4,000-image dataset, with an end-t
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,react,nodejs,fastapi,typescript,javascript,cs,postgres,mysql,aws,gcp,docker,git,azure" alt="Skill icons" />
 
-Also: NumPy · Pandas · Keras · Ollama (local LLM inference) · Prompt Engineering · DistilBERT fine-tuning · LLM evaluation & confidence calibration
+Also: NumPy · Pandas · Keras · Ollama (local LLM inference) · OpenTelemetry · Prompt Engineering · DistilBERT fine-tuning · LLM evaluation & confidence calibration
 
 <br>
 
