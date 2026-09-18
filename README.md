@@ -51,7 +51,7 @@ Shipped a React Native curbside-pickup feature for a national retail app (+30% s
 
 ### Education
 
-- **M.S. Computer Science** — The University of Texas at Arlington · May 2026
+- **M.S. Computer Science** — The University of Texas at Arlington · Aug 2024 – May 2026
 - **B.Tech Computer Science** — Saintgits College of Engineering, India · May 2019
 
 ### Publication
